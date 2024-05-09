@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d5bd800-f50b-4ec8-a2a7-d7ce98d004ca/deploy-status)](https://app.netlify.com/sites/yaya-udit/deploys)
+
 # Template website undangan pernikahan sederhana
 
 ![Thumbnail](/assets/images/banner.png)
