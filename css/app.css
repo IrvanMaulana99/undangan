@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    font-family: 'Josefin Sans', sans-serif !important;
+    font-family: 'Inter', sans-serif !important;
     padding: 0 !important;
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 .font-arabic {
-    font-family: 'Noto Naskh Arabic', serif !important;
+    font-family: 'Scheherazade New', serif !important;
 }
 
 .img-crop {
